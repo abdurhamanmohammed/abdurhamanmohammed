@@ -16,7 +16,8 @@
 
 - 📫 How to reach me **abdymoha93@gmail.com**
   
--   <a href="https://abdurhamanmohammed.github.io/abdymoha/">live demo</a>
+-  **my portfolio** <a href="https://abdurhamanmohammed.github.io/abdymoha/">**Live Demo**</a>
+
 
 
 <p align="left">
