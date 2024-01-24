@@ -12,11 +12,9 @@
 
 - 🌱 I’m currently learning **React Native , python**
 
-- 👨‍💻 All of my projects are available at [https://abdurhamanmohammed.github.io/abdymoha/](https://abdurhamanmohammed.github.io/abdymoha/)
-
 - 📫 How to reach me **abdymoha93@gmail.com**
   
--  **my portfolio** <a href="https://abdurhamanmohammed.github.io/abdymoha/">**Live Demo**</a>
+-  **my portfolio** <a target="_blank" href="https://abdurhamanmohammed.github.io/abdymoha/">**Live Demo**</a>
 
 
 
